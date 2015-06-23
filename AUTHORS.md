@@ -1,6 +1,6 @@
 # Authors and Contributors
 
-maggie_skills_msgs was designed and developed by the Social Robots Group at Robotics Lab, UC3M (Spain).
+sr_common_msgs was designed and developed by the Social Robots Group at Robotics Lab, UC3M (Spain).
 
 ### Current Team
 
@@ -11,4 +11,4 @@ maggie_skills_msgs was designed and developed by the Social Robots Group at Robo
 
 ### Thanks
 
-[See all Github contributors](https://github.com/UC3MSocialRobots/maggie_skills_msgs/contributors)
+[See all Github contributors](https://github.com/UC3MSocialRobots/sr_common_msgs/contributors)
